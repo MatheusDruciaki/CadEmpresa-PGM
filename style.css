@@ -1,0 +1,57 @@
+body {
+    background-color: rebeccapurple;
+}
+.container {
+    text-align: center;
+    font-family: 'High';
+    font-size: 35px;
+   
+
+}
+input {
+    box-shadow: 2px 2px 2px;
+    color: black;
+    border-radius: 9px;
+    width: 15%;
+}
+label {
+    padding-top: 7px;
+}
+.titulo {
+    font-family: 'High';
+    font-size: 50px;
+    color: darkred;
+    padding: 10px;
+    width: 70%;
+    height: 100px;
+    background-color: black;
+    line-height: 100px;
+    border-radius: 12px;
+    margin: 0;
+    margin-left: 190px;
+
+}
+.form-group {
+    position: relative;
+    color: black;
+}
+@font-face {
+    font-family:'High';
+    src: url('font/HighVoltage\ Heavy\ Rough.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+button {
+    background-color: darkred;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 15px;
+    transition: all ease 0.3s;
+    width: 15%;
+    margin: 10px;
+    color: black;
+    font-family: 'High';
+    font-size: 25px;
+    box-shadow: 3px 3px 3px;
+
+}
